@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Itheaven. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Itheaven_Magepress::itheaven_index_index" title="Magepress" module="Itheaven_Magepress" parent="" sortOrder="20" dependsOnModule="Itheaven_Magepress" action="magepress/index/index" resource="Itheaven_Magepress::itheaven_index_index"/>
+<!--AddMenu-->
+    </menu>
+</config>
